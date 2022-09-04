@@ -16,7 +16,7 @@ chunks:
 
         # Hi there!
 
-        напоминание про алгебру [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
+        algebra reminding [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
 
         You can also go there using a
         <a href="flow:001-linalg-recap" role="button" class="btn btn-default">Bootstrap button</a>.
